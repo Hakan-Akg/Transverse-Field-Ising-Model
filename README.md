@@ -1,7 +1,8 @@
-IMULATING QUANTUM MANY-BODY DYNAMICS ON DIGITAL QUANTUM COMPUTERS
+SIMULATING QUANTUM MANY-BODY DYNAMICS ON DIGITAL QUANTUM COMPUTERS
 ===================================================================
 
 This repository contains a recreation of the work from "Simulating quantum many-body dynamics on a current digital quantum computer". The project leverages quantum circuits to simulate the dynamics of quantum many-body systems, providing both trotterized and exact diagonalization approaches.
+(Original work: https://www.nature.com/articles/s41534-019-0217-0)
 
 ********
 
